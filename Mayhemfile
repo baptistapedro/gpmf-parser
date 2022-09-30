@@ -1,0 +1,5 @@
+project: gpmf-parser
+target: gpmf-parser
+
+cmds:
+  - cmd: /gpmfdemo @@
