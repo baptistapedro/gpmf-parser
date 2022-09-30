@@ -5,6 +5,7 @@
 !CMakeLists.txt
 !CONTRIBUTING.md
 !Dockerfile
+!gpmf-parser.pc.in
 !GPMF_bitstream.h
 !GPMF_common.h
 !GPMF_parser.c
