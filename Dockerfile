@@ -1,6 +1,6 @@
 FROM fuzzers/afl:2.52 as builder
 
-RUN apt update -y & apt install -y build-essential clang cmake
+RUN apt update -y && apt install -y build-essential clang cmake
 RUN mkdir /gpmf-parser
 WORKDIR /gpmf-parser
 COPY . .
